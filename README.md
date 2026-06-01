@@ -1,7 +1,7 @@
 # Dance Central WAV Archive
 An archive of every Dance Central song, in WAV format (Work in Progress)
 
-##ABOUT:
+## ABOUT:
 
 This archive aims to not only have the series' songlist, but also any stems that may be present in certain songs, and an archive of the UI music as well.
 Each song includes the following variants:
@@ -12,11 +12,11 @@ Each song includes the following variants:
 *only if applicable
 **the BiD stems are excluded from the main file.
 
-##Current Songlist:
+## Current Songlist:
 
 	UNDER CONSTRUCTION
 
-##Contribution Notes
+## Contribution Notes
 All songs must be in .WAV format.
 
 I own none of the songs featured in this archive. All content is property of their original owners.
