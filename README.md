@@ -23,6 +23,13 @@ This archive aims to not only have the series' songlist, but also any stems that
 | Galang '05										| M.I.A.								| Dance Central 1, Dance Central 1 (E3 2010) |
 | Poison											| Bell Biv DeVoe						| Dance Central 1, Dance Central 1 (E3 2010) |
 | Hella Good										| No Doubt								| Dance Central 1, Dance Central 1 (E3 2010) |
+| Warm Up Challenge									| Harmonix								| Dance Central 1 |
+| Simple Challenge									| Harmonix								| Dance Central 1 |
+| Moderate Challenge								| Harmonix								| Dance Central 1 |
+| Tough Challenge									| Harmonix								| Dance Central 1 |
+| Legit Challenge									| Harmonix								| Dance Central 1 |
+| Hardcore Challenge								| Harmonix								| Dance Central 1 |
+| Off The Hook Challenge							| Harmonix								| Dance Central 1 |
 | Grand Finale Challenge							| Harmonix								| Dance Central 1 |
 | Get Up (I Feel Like Being a) Sex Machine, Pt. 1	| James Brown							| Dance Central 1 (DLC) |
 | I Wish For You									| EXILE									| Dance Central 2 |
