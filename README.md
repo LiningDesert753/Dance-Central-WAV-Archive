@@ -42,7 +42,8 @@ This archive aims to not only have the series' songlist, but also any stems that
 | Born This Way										| Lady Gaga								| Dance Central 2 |
 | Bad Romance										| Lady Gaga								| Dance Central 2 |
 | You're A Jerk										| New Boyz								| Dance Central 2 |
-| Sexy Chick										| Daft Punk								| Dance Central 2 |
+| Sexy Chick										| David Guetta ft. Akon					| Dance Central 2 |
+| Technologic										| Daft Punk								| Dance Central 2 |
 | DJ Got Us Fallin' In Love							| Usher ft. Pitbull						| Dance Central 2 |
 | Last Night										| Diddy ft. Keyshia Cole				| Dance Central 2 |
 | Fire Burning										| Sean Kingston							| Dance Central 2 |
