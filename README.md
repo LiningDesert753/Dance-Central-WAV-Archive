@@ -24,6 +24,31 @@ This archive aims to not only have the series' songlist, but also any stems that
 | Poison											| Bell Biv DeVoe						| Dance Central 1, Dance Central 1 (E3 2010) |
 | Hella Good										| No Doubt								| Dance Central 1, Dance Central 1 (E3 2010) |
 | Move Ya Body										| Nina Sky								| Dance Central 1, Test DLC |
+| Evacuate The Dancefloor							| Cascada								| Dance Central 1 |
+| Crank That (Soulja Boy)							| Soulja Boy Tell 'Em					| Dance Central 1 |
+| Rump Shaker										| Wreckx-n-Effect						| Dance Central 1 |
+| Pon de Replay										| Rihanna								| Dance Central 1 |
+| Push It											| Salt 'N Pepa							| Dance Central 1 |
+| Don't Sweat the Technique							| Eric B. & Rakim						| Dance Central 1 |
+| Brick House										| Commodores							| Dance Central 1 |
+| Satisfaction										| Benny Benassi presents The Biz		| Dance Central 1 |
+| Drop It Like It's Hot								| Snoop Dogg							| Dance Central 1 |
+| Pump Up the Jam									| Technotronic							| Dance Central 1 |
+| Hey Mami											| FannyPack								| Dance Central 1 |
+| Can't Get You Out of My Head						| Kylie Minogue							| Dance Central 1 |
+| Dip It Low										| Christina Milian						| Dance Central 1 |
+| Jungle Boogie										| Kool & the Gang						| Dance Central 1 |
+| I Know You Want Me (Calle Ocho)					| Pitbull								| Dance Central 1 |
+| Down												| Jay Sean feat. Lil Wayne				| Dance Central 1 |
+| Just Dance										| Lady Gaga								| Dance Central 1 |
+| C'mon N' Ride It (The Train)						| Quad City DJ's						| Dance Central 1 |
+| King of the Dancehall								| Beenie Man							| Dance Central 1 |
+| Days Go By										| Dirty Vegas							| Dance Central 1 |
+| Flava in Ya Ear (Remix)							| Craig Mack							| Dance Central 1 |
+| Teach Me How to Jerk								| Audio Push							| Dance Central 1 |
+| Rendez-Vu											| Basement Jaxx							| Dance Central 1 |
+| Bust a Move										| Young MC								| Dance Central 1 |
+| Maneater											| Nelly Furtado							| Dance Central 1 |
 | Warm Up Challenge									| Harmonix								| Dance Central 1 |
 | Simple Challenge									| Harmonix								| Dance Central 1 |
 | Moderate Challenge								| Harmonix								| Dance Central 1 |
@@ -72,6 +97,8 @@ This archive aims to not only have the series' songlist, but also any stems that
 | Real Love											| Mary J. Blige							| Dance Central 2 |
 | What Is Love										| Haddaway								| Dance Central 2 |
 | Baby Got Back (Mix Mix)							| Sir Mix-A-Lot							| Dance Central 2 |
+| What's My Name?									| Rihanna ft. Drake						| Dance Central 2 (Unused) |
+| S & M												| Rihanna								| Dance Central 2 (Unused) |
 | Lose Control										| Missy Elliott							| Dance Central 2 (Unused) |
 | I'm Coming Out									| Diana Ross							| Dance Central 2 (Unused, DLC) |
 | #thatPOWER										| will.i.am ft. Justin Bieber			| Dance Central Spotlight |
