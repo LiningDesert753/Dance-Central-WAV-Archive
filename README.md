@@ -97,8 +97,8 @@ This archive aims to not only have the series' songlist, but also any stems that
 | Real Love											| Mary J. Blige							| Dance Central 2 |
 | What Is Love										| Haddaway								| Dance Central 2 |
 | Baby Got Back (Mix Mix)							| Sir Mix-A-Lot							| Dance Central 2 |
-| What's My Name?									| Rihanna ft. Drake						| Dance Central 2 (Unused) |
-| S & M												| Rihanna								| Dance Central 2 (Unused) |
+| What's My Name?									| Rihanna ft. Drake						| Dance Central 2 (DLC) |
+| S & M												| Rihanna								| Dance Central 2 (DLC) |
 | Lose Control										| Missy Elliott							| Dance Central 2 (Unused) |
 | I'm Coming Out									| Diana Ross							| Dance Central 2 (Unused, DLC) |
 | #thatPOWER										| will.i.am ft. Justin Bieber			| Dance Central Spotlight |
