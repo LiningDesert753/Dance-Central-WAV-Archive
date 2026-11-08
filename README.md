@@ -101,6 +101,7 @@ This archive aims to not only have the series' songlist, but also any stems that
 | S & M												| Rihanna								| Dance Central 2 (DLC) |
 | Lose Control										| Missy Elliott							| Dance Central 2 (Unused) |
 | I'm Coming Out									| Diana Ross							| Dance Central 2 (Unused, DLC) |
+| mocap bpm 159										| Natasha!!								| Dance Central 3 (Unused) |
 | #thatPOWER										| will.i.am ft. Justin Bieber			| Dance Central Spotlight |
 | Counting Stars									| OneRepublic							| Dance Central Spotlight |
 | Happy												| Pharrell Williams						| Dance Central Spotlight |
